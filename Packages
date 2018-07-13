@@ -13,14 +13,13 @@ Description: Animated table scrolling
 Name: Cask
 Author: Ryan Petrich
 
-
 Package: com.vitataf.homegesture
 Version: 1.7.4
 Section: Tweaks 11.3.1
 Maintainer: VitaTaf/MidnightChips/PINPAL
 Depends: firmware (>11.0), mobilesubstrate
 Architecture: iphoneos-arm
-Filename: /debs/com.vitataf.homegesture_1.7.4_iphoneos-arm.deb
+Filename: /debs/com.vitataf.homegesture.deb
 Size: 570
 MD5sum: 6de8e98b1bed81cfb8c696d8c6702096
 SHA1: abc0dc569f7e024b19706ee00d76847a347072ba
