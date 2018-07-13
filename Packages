@@ -1,14 +1,14 @@
-Package: (com.yourname.packagename)
-Name: (Tweak Name) 
-Version: (Version Number)
-Size: (Size in Bytes)
+Package: com.vitataf.homegesture_1.7.4_iphoneos-arm
+Name: HomeGesture 
+Version: 1.7.4
+Size: 570
 Architecture: iphoneos-arm
-Description: (Tweak Description)
-Maintainer: (Name) <email@provider.com>
-Author: (Name) <email@provider.com>
-Section: (Cydia Section)
-MD5sum:
-SHA1sum:
-SHA256sum:
-Filename: debs//(Tweak Name).deb
+Description: iPhone X gestures for a non Iphone X devices 
+Maintainer: VitaTaf/MidnightChips/PINPAL <email@provider.com>
+Author: VitaTaf/MidnightChips/PINPAL <email@provider.com>
+Section: Tweaks 11.3.1
+MD5sum: 6de8e98b1bed81cfb8c696d8c6702096
+SHA1sum: abc0dc569f7e024b19706ee00d76847a347072ba
+SHA256sum: 47ac57f36021bacfa74c62e2f2865797e8a91c29aee9f035f2c2996b0d6e7aba
+Filename: debs//HomeGesture.deb
 
