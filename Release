@@ -1,0 +1,8 @@
+Origin: Corrupted ISO's Repo
+Label: Corrupted ISO
+Suite: stable
+Version: 0.2
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: Another Cydia tweak developer but not a hero.
