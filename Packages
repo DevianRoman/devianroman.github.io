@@ -4,7 +4,7 @@ Section: Tweaks 11.3.1
 Maintainer: Ryan Petrich
 Depends: firmware (>11.0), mobilesubstrate
 Architecture: iphoneos-arm
-Filename: /debs/cask.deb
+Filename: /debs/cask_0.2.deb
 Size: 11048
 MD5sum: e6ea2aae7512971fd3ebf6e254d56126
 SHA1: 5f3b0ad9c3dce188be3d4dc3b1be81739547136f
