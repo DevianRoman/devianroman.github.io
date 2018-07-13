@@ -1,12 +1,12 @@
-Package: com.betterccxi_1.2.0
-Version: 1.2.0
+Package: com.devianroman.cask
+Version: 0.2
 Section: Tweaks 11.3.1
 Maintainer: Corrupted ISO
 Depends: firmware (>11.0), mobilesubstrate
 Architecture: iphoneos-arm
-Filename: /com.betterccxi_1.2.0.deb
-Size: 38490
-MD5sum: 969a063f0affe058a981b20cc60931f7
-Description: A better control center for iso 11
-Name: BeterCCXI
+Filename: /debs/cask_0.2.deb
+Size: 11048
+MD5sum: e6ea2aae7512971fd3ebf6e254d56126
+Description: a custom scrolling for iso 11
+Name: Cask
 Author: Corrupted ISO
