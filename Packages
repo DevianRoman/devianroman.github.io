@@ -1,0 +1,14 @@
+Package: com.rpetrich.cask
+Version: 0.2
+Section: Tweaks 11.3.1
+Maintainer: Ryan Petrich
+Depends: firmware (>11.0), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: https://www.dropbox.com/home/Public/cask_0.2.deb
+Size: 11048
+MD5sum: e6ea2aae7512971fd3ebf6e254d56126
+SHA1: 5f3b0ad9c3dce188be3d4dc3b1be81739547136f
+SHA256: 63e6b4e9644f598c788c10164a37e235a4c697988d33ef75a819bf56ce3ff3a4
+Description: Animated table scrolling
+Name: Cask
+Author: Ryan Petrich
